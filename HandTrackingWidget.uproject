@@ -11,6 +11,10 @@
 		{
 			"Name": "StaticMeshEditorExtension",
 			"Enabled": true
+		},
+		{
+			"Name": "RemoteControlProtocolMIDI",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
